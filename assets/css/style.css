@@ -1,3 +1,8 @@
+h1 {
+  text-align: center;
+  background-color: rgb(195, 240, 149);
+}
+
 #board {
   text-align: center;
   margin: 20px;
