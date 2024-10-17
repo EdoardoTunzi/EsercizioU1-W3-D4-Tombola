@@ -1,0 +1,33 @@
+#board {
+  text-align: center;
+  margin: 20px;
+  border: 1px solid;
+  background-color: cornsilk;
+}
+
+.cell {
+  display: inline-block;
+  width: 60px;
+  height: 60px;
+  border: 1px solid #000;
+  margin: 5px;
+  text-align: center;
+  vertical-align: middle;
+  line-height: 60px;
+}
+
+#randomBox {
+  text-align: center;
+  margin: 20px;
+  border: 1px solid;
+}
+
+#randomNum {
+  font-size: 4rem;
+}
+
+#randomBox button {
+  font-size: 1.5rem;
+  padding: 0.5rem;
+  margin-bottom: 20px;
+}
